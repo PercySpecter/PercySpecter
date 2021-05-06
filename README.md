@@ -1,6 +1,6 @@
 <h2 align="center"> Hi! This is Kinjal 👋🏻 </h2>
 
-I am a final year Computer Science and Engineering undergraduate from India. Artificial Intelligence with its applications and possibilities fascinate me. I am interested in developing AI driven Web and Mobile systems to create user-friendly and accessible solutions to problems.
+I am a final year Computer Science and Engineering undergraduate from India. Artificial Intelligence with its applications and possibilities fascinate me. I am interested in developing Web and Mobile systems to create user-friendly and accessible solutions to problems.
 
 📫 Find Me here...
 ---
